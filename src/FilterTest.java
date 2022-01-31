@@ -6,6 +6,7 @@ import core.DisplayWindow;
 import processing.core.PImage;
 
 //shrtdrtyugyfgdxtyuhgfdrtyuikhjgfdhty
+//more edit
 
 public class FilterTest {
     public static String currentFolder = System.getProperty("user.dir") + "/";
